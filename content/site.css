@@ -1,0 +1,22 @@
+.list-container
+{
+    margin-top: 20px;
+}
+
+.black
+{
+    color: black;
+}
+
+.remove-icon
+{
+    display: block;
+    float: right;
+    margin-right: -19px;
+    margin-top: -35px;
+    position: relative;
+    font-size: 20px;
+    z-index: 2;
+    cursor: pointer;
+    color: red;
+}
